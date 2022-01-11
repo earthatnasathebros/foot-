@@ -1,0 +1,6 @@
+function [param] = parameters(vec4_foot)
+param.L_foot = .25; %.07
+param.m_foot = 1; %1
+param.c_foot = 0; %14.5
+param.k_foot = k_foot;
+param.hard_stop = .0481; %.0481 Spring Compression
